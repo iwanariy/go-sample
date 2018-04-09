@@ -6,9 +6,6 @@ import (
 	"time"
 )
 
-func sleepN(t int) {
-}
-
 func main() {
 	wg := &sync.WaitGroup{}
 
